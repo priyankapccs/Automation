@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="RS Component Login feature" name="Login to RS Component HomePage" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given User open browser.....................................................undefined
+When User enter user name and password......................................undefined
+Then user click on Log In button............................................undefined
+Then user is on Home page...................................................undefined
+Then Browser is closed......................................................undefined
+]]></failure>
+</testcase>
+</testsuite>
